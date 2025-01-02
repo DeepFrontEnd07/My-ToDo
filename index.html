@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do</title>
+  </head>
+  <body>
+    <h1 id="h1">My To-Do</h1>
+    <!-- main div  -->
+    <div class="main">
+      <input type="text" id="inp" placeholder="Tasks..." />
+      <!-- Button  -->
+      <button id="btn" onclick="add()">Add</button>
+    </div>
+
+    <!-- Ul list -->
+    <div class="uldiv">
+      <ul id="ulitem"></ul>
+    </div>
+
+    <!-- All tasks -->
+    <button id="all_task">All Task</button>
+    <div class="adiv">
+      <ul id="aitems"></ul>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
