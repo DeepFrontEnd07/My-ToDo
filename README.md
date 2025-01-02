@@ -1,2 +1,2 @@
 # My-ToDo
-My To-Do is a simple JavaScript-based app for managing tasks. It allows you to add, delete, and mark tasks as complete, with all changes saved using local storage for easy access anytime.
+. Designed and developed a fully responsive My To-Do application using HTML, CSS, and JavaScript, ensuring dynamic task management functionality.                                . Created an interactive and intuitive user interface powered by JavaScript, enabling real-time task updates, local storage integration, and seamless user experience.           . Visit the Live App: 
